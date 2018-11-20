@@ -1,0 +1,29 @@
+Madhya Pradesh	1990	317	Sitamau	GEN	Nana Lal Patidar	M	Bhartiya Janata Party	BJP	46954	120012 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Chandra Shekhar Joshi	M	Independents	IND	67	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Ramesh Joshi	M	Independents	IND	88	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Shekh Mukhtiyar	M	Independents	IND	135	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Hemant Kumar Sharma	M	Independents	IND	142	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Manohar Lal Jain	M	Independents	IND	144	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Bano Bi	F	All India Dalit Muslim Minorities Suraksha Mahasangh	DMM	242	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Mirza Mohammad Beg	M	Independents	IND	273	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Pyari Bai	F	Independents	IND	284	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Jagdish Chandra Rathore	M	Lok Dal (B)	LKD(B)	336	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Mohan Singh Chouhan	M	Janata Dal	JD	543	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Vikram Lal Kumawat	M	Doordarshi Party	DDP	685	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Madhusudan Bhardwaj	M	Independents	IND	1365	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Kayyum Khan 'Lala'	M	Independents	IND	15575	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Shyam Sunder Patiyar	M	Indian National Congress	INC	19192	132480 
+Madhya Pradesh	1990	318	Mandsaur	GEN	Kailash Chawla	M	Bhartiya Janata Party	BJP	43376	132480 
+Madhya Pradesh	1990	319	Neemuch	GEN	Kunwar Lal Gayari	M	Janata Party (Jp)	JNP(JP)	194	146729 
+Madhya Pradesh	1990	319	Neemuch	GEN	Mohammad Hissain Faruki	M	Independents	IND	363	146729 
+Madhya Pradesh	1990	319	Neemuch	GEN	Ismail	M	All India Dalit Muslim Minorities Suraksha Mahasangh	DMM	676	146729 
+Madhya Pradesh	1990	319	Neemuch	GEN	Laxman	M	Doordarshi Party	DDP	741	146729 
+Madhya Pradesh	1990	319	Neemuch	GEN	Mangi Lal Dogiwar	M	Janata Dal	JD	1284	146729 
+Madhya Pradesh	1990	319	Neemuch	GEN	Shailendra Singh G. S. Thakur	M	Independents	IND	1333	146729 
+Madhya Pradesh	1990	319	Neemuch	GEN	Jaidev Hira Lal	M	Bahujan Samaj Party	BSP	2268	146729 
+Madhya Pradesh	1990	319	Neemuch	GEN	Sampat Swaroop Sita Ram Jajoo	M	Indian National Congress	INC	35882	146729 
+Madhya Pradesh	1990	319	Neemuch	GEN	Khuman Singh Shivaji	M	Bhartiya Janata Party	BJP	46383	146729 
+Madhya Pradesh	1990	320	Jawad	GEN	Hamid Sultan	M	Independents	IND	223	139360 
+Madhya Pradesh	1990	320	Jawad	GEN	Abdul Kayyum	M	All India Dalit Muslim Minorities Suraksha Mahasangh	DMM	239	139360 
+Madhya Pradesh	1990	320	Jawad	GEN	Ramesh Chandra Laxmi Narain Mandowara	M	Independents	IND	363	139360 
+Madhya Pradesh	1990	320	Jawad	GEN	Bhanwar Lal	M	Independents	IND	404	139360 
