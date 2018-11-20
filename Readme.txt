@@ -10,3 +10,5 @@ Made a program that uses apache log file to get urls of file on the web than clu
 Hackerrank Questions
 Bewteen two sets
 
+INSIDE C Folder
+Data Structure Assignment with questions are listed in the Pdf of the respective assignment
